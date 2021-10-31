@@ -4,7 +4,7 @@
 </p>
 </p>
 <br>
-<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<!-- <img align="right" width=200px alt="Images" src="https://user-images.githubusercontent.com/62384197/139582164-4adf748d-c7f4-4f79-ba5d-82a5328bfed2.png"/> -->
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
