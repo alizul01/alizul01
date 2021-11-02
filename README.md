@@ -29,9 +29,6 @@
 </div>
  <br> <br> <br> <br> <br> <br> <br> <br>
 
-<hr>
-
-
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
