@@ -1,21 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ali Zulfikar!</h1>
-<h3 align="center">Student at Politeknik Negeri Malang | Content Creator | Artificial Intelligence Enthusiast</h3>
-<p align="center">
-</p>
-</p>
-<br>
 
+<!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=alizul01.alizul01) 
-[![Github](https://img.shields.io/github/followers/alizul01?label=Followers&logo=Github)](https://github.com/alizul01)
-
-
-<!-- <img align="right" width=200px alt="Images" src="https://user-images.githubusercontent.com/62384197/139582164-4adf748d-c7f4-4f79-ba5d-82a5328bfed2.png"/> -->
-
-## 🎓 I'm currently studying computer science major
-
-- 🔭 Learning about Python, Artificial Intelligence, and Web Programming
-- 💬 Ask me about anything
-- ⚡ Fun fact: I love study something new!
+[![Github](https://img.shields.io/github/followers/alizul01?label=Followers&logo=Github)](https://github.com/alizul01) -->
 
 ## :trophy: My Github Stats:
 <hr>
