@@ -11,7 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- My [LinkedIn.](https://www.linkedin.com/in/ericjulianto/)
+- My [LinkedIn.](https://www.linkedin.com/in/alizulfikar/)
 
 <p align="left"> <a href="https://twitter.com/panggilajazul" target="blank"><img src="https://img.shields.io/twitter/follow/panggilajazul?logo=twitter&style=for-the-badge" alt="panggilajazul" /></a> </p>
 
