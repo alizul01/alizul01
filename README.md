@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ali Zulfikar!</h1>
+<h1 align="center">Hi 👋, I'm Ali Zulfikar!</h1>
 
 ### About me
 - I’m currently learning **Front End Web Developer**
