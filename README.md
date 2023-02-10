@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.alizul01.my.id"> Personal Website </a> | 
-  <a href="https://www.linkedin.com/alizulfikar"> LinkedIn </a> |
+  <a href="https://www.linkedin.com/in/alizulfikar"> LinkedIn </a> |
   <a href="https://www.twitter.com/panggilajazul"> Twitter </a>
 </p>
 
