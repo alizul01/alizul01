@@ -1,18 +1,24 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/62384197/216797032-12320167-65e8-40d1-985f-e5cdea790890.gif" alt="nature-gif-banner" />
+<img src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif" alt="https://kitelikesm.pics/product_details/13079792.html" width="500" />
 </p>
 
 <p align="center">
   <a href="https://www.alizul01.my.id"> Personal Website </a> | 
   <a href="https://www.linkedin.com/in/alizulfikar"> LinkedIn </a> |
-  <a href="https://www.twitter.com/panggilajazul"> Twitter </a>
+  <a href="https://www.twitter.com/panggilajazul"> Twitter </a> |
+  <a href="https://alizul01.itch.io/"> Itch.io </a> 
 </p>
 
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=D4E7F7&width=435&lines=Hi+there%2C+I'm+Ali+Zulfikar!" alt="Typing SVG" /></a>
+<b> Hi there, I'm Ali Zulfikar 👋 </b>
 
-I'm currently work on [Polinema Innovation Tribe](https://github.com/alizul01/polinema-innovation-tribe) project for Politeknik Negeri Malang Student, it's open source project! For now, i'm working on React Ecosystem such as Next.js, TypeScript, and etc. I love to create innovation and ideas to solve problems around me. Especially on SDGs problems.
+<p> I'm a Game Programmer at Lion Core Studio, work on several game development ecosystems such as Unity, Unreal Engine, and etc. Right now i work on some projects, current project that on development is <a href="https://alizul01.itch.io/nightwatch-at-the-gallery"> Nightwatch at The Gallery </a>, it's a horror indie game! </p>
 
-### Most Used Language and tool : <br>
+## Most Used Language and tool : <br>
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+### Web Development
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -23,9 +29,15 @@ I'm currently work on [Polinema Innovation Tribe](https://github.com/alizul01/po
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-Reach me on alizulfikar032@gmail.com
+## I'm Currently Learning...
+- Unreal Engine 4
+- Blender (Character Modelling and Texturing)
+- C++ more in depth
+
+## Let's Connect!
+I'm always open to collaborating on exciting projects or discussing game development. You can reach me at:
+📧 alizulfikar032@gmail.com
 
 <!---
 alizul01/alizul01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
